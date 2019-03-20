@@ -19,8 +19,7 @@ This project is created with:
 
 ## Aplication
 * Starting application with Docker and an example of a searching random fruit word request: <br>
-![staring-and-request](https://i.imgur.com/2QaXYIF.gif) <br><br>
+![staring-and-request](https://i.imgur.com/ibKvLPU.gif) <br><br>
 
 * Parsing on WordPress: <br>
-![wordpress-parsing](https://i.imgur.com/ibKvLPU.gif) <br><br>
- 
+![wordpress-parsing](https://i.imgur.com/IQWjy7b.gif) <br><br>
