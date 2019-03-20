@@ -1,3 +1,7 @@
+np_lab/web_service_project/database/DatabaseManagement.class
+np_lab/web_service_project/impl/ChooseWord.class
 np_lab/web_service_project/Weather.class
 np_lab/web_service_project/Application.class
 np_lab/web_service_project/App.class
+np_lab/web_service_project/api/NorwegianAPI.class
+np_lab/web_service_project/database/GetWord.class
