@@ -18,10 +18,9 @@ This project is created with:
 * Jenkins
 
 ## Aplication
-* Starting application with Docker and an example of a searching word request: <br><br>
+* Starting application with Docker and an example of a searching random fruit word request: <br><br>
 ![staring-and-request](https://i.imgur.com/2QaXYIF.gif) <br>
 
 * Parsing on WordPress: <br><br>
-![wordpress-parsing](https://i.imgur.com/IQWjy7b.gif) <br>
-
+![wordpress-parsing](https://i.imgur.com/ibKvLPU.gif) <br>
  
